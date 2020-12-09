@@ -1,9 +1,11 @@
 .App {
   text-align: center;
+  width: 100%;
 }
 
 .App-logo {
   height: 40vmin;
+  width: auto;
   pointer-events: none;
 }
 
